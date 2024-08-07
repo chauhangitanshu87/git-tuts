@@ -1,4 +1,4 @@
-1- React.j
+1- React.js & Angular
 2- Node.js
 3- Express.js
 4- Mongodb
