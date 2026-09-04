@@ -7,6 +7,6 @@ Mern Stack -- -
 
 front end - - 
 1- Html, css ,js 
-2- React
+2- React, Typescript
 
 
