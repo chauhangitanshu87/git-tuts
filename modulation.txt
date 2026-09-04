@@ -6,5 +6,7 @@ Mern Stack -- -
 4- Mongodb
 
 front end - - 
+1- Html, css ,js 
+2- React
 
 
